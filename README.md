@@ -32,7 +32,6 @@ voting_system/
  ├── Move.lock
  ├── Move.toml
  └── BuildInfo.yaml
-Your BuildInfo.yaml confirms the project’s compilation, dependency graph, and exact Sui framework commit hash. 
 BuildInfo
 💻 Tech Stack
 Sui Blockchain
@@ -52,7 +51,6 @@ Create proposal
 Cast vote
 Finalize proposal
 (Adjust object IDs after publish.)
-If you want, I can generate the exact CLI commands once you share the module code.
 📦 Building the Package
 The project compiles with:
 sui move build
